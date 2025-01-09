@@ -5,7 +5,7 @@ chardet==5.2.0
 click==8.1.8
 idna==3.10
 ifaddr==0.2.0
-protobuf==5.29.2
+protobuf==5.29.3
 PyChromecast==13.1.0
 requests==2.32.3
 six==1.17.0
