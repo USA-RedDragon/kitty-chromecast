@@ -12,4 +12,4 @@ six==1.17.0
 urllib3==2.3.0
 youtube-dl==2021.12.17
 youtube-search-python==1.6.6
-zeroconf==0.146.0
+zeroconf==0.146.1
