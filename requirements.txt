@@ -6,7 +6,7 @@ click==8.2.1
 idna==3.10
 ifaddr==0.2.0
 protobuf==5.29.5
-PyChromecast==13.1.0
+PyChromecast==14.0.7
 requests==2.32.4
 six==1.17.0
 urllib3==2.5.0
