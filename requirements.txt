@@ -7,7 +7,7 @@ idna==3.10
 ifaddr==0.2.0
 protobuf==5.29.5
 PyChromecast==13.1.0
-requests==2.32.3
+requests==2.32.4
 six==1.17.0
 urllib3==2.5.0
 youtube-dl==2021.12.17
