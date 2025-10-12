@@ -3,7 +3,7 @@ catt==0.12.12
 certifi==2024.12.14
 chardet==5.2.0
 click==8.3.0
-idna==3.10
+idna==3.11
 ifaddr==0.2.0
 protobuf==5.29.5
 PyChromecast==13.1.0
