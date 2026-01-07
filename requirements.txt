@@ -1,5 +1,5 @@
 casttube==0.2.1
-catt==0.12.12
+catt==0.13.1
 certifi==2024.12.14
 chardet==5.2.0
 click==8.3.1
